@@ -2,7 +2,7 @@ package ch2;
 
 import java.util.Date;
 
-public class VarType {
+public class VarTypeEx {
     public static void main(String[] args) {
         // 기본형 (primitive type)
         boolean bool = true;        // 1byte
